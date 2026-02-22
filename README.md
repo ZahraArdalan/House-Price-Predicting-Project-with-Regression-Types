@@ -47,4 +47,4 @@ Here is the final evaluation of all models tested during the project:
 3. Run the notebook/script to see the results.
 
 ---
-*Created with ❤️ as my first end-to-end Machine Learning project.*
+*Created with Zahra Ardalan.*
