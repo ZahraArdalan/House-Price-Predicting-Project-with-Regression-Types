@@ -20,10 +20,10 @@ Here is the final evaluation of all models tested during the project:
 | Model | Train R² Score | Test R² Score | Conclusion |
 | :--- | :---: | :---: | :--- |
 | **Polynomial Regression (Deg 3)** | **0.93** | **0.93** | **🏆 Best Fit (Winner)** |
-| **Random Forest** | 0.94 | 0.60 | Overfitting |
+| **Random Forest** | 0.94 | 0.61 | Overfitting |
 | **Linear Regression** | 0.68 | 0.66 | Underfitting |
-| **Support Vector Regression (SVR)**| 0.62 | 0.59 | Moderate |
-| **Decision Tree** | 0.99 | 0.43 | Severe Overfitting |
+| **Support Vector Regression (SVR)**| 0.77 | 0.59 | Moderate |
+| **Decision Tree** | 0.75 | 0.48 | Severe Overfitting |
 
 ---
 
